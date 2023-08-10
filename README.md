@@ -2,7 +2,7 @@
 # Flask Blog API Consumer
 
 A simple Flask application that displays blog posts using local JSON data.
-
+![simple_blog.png](simple_blog.png)
 ## Features
 
 - Reads posts from a local JSON file.
