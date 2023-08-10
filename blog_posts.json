@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "The Journey of Learning Python",
+        "subtitle": "From Zero to Hero",
+        "body": "Python is an incredible programming language that allows developers to build a wide variety of applications..."
+    },
+    {
+        "id": 2,
+        "title": "Understanding Flask Web Framework",
+        "subtitle": "Building Web Applications with Flask",
+        "body": "Flask is a micro web framework written in Python. It is simple, yet powerful, and allows developers to build web applications quickly..."
+    },
+    {
+        "id": 3,
+        "title": "The Rise of AI and Machine Learning",
+        "subtitle": "How AI is Transforming Industries",
+        "body": "Artificial Intelligence (AI) and Machine Learning (ML) are reshaping industries and changing the way businesses operate. In this post, we'll explore the impact of AI and ML..."
+    },
+    {
+        "id": 4,
+        "title": "Demystifying Cryptocurrencies",
+        "subtitle": "The Future of Finance?",
+        "body": "Cryptocurrencies have gained immense popularity in recent years. But what exactly are they and how do they work? Let's dive deep into the world of digital currencies..."
+    }
+]
