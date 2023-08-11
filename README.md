@@ -14,15 +14,18 @@ A simple Flask application that displays blog posts using local JSON data.
 1. Ensure you have Python and Flask installed.
 2. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/j-breedlove/simple_blog.git
    ```
 3. Navigate to the project directory:
    ```
-   cd path/to/directory
+   cd simple_blog
    ```
-4. Install required packages:
+4. Create environment and Install required packages:
    ```
-   pip install -r requirements.txt
+   pip install pipenv
+   pipenv install
+   pipenv shell
+   pipenv install <package_name>
    ```
 5. Run the application:
    ```
